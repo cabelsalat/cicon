@@ -10,3 +10,10 @@ After trying a few Icon Pack Templates, i found the CandyBar Dashboard wich is p
 
 F-Droid Repository
 https://cabelsalat.github.io/cicon/fdroid/repo/index.html
+
+
+
+APK
+
+V1
+https://cabelsalat.github.io/cicon/fdroid/repo/cedric-v1.apk
