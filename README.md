@@ -16,4 +16,4 @@ https://cabelsalat.github.io/cicon/fdroid/repo/index.html
 APK
 
 V1
-https://cabelsalat.github.io/cicon/fdroid/repo/cedric-v1.apk
+https://cabelsalat.github.io/cicon/fdroid/repo/cicon-v1.apk
